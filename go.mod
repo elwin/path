@@ -1,4 +1,4 @@
-module path
+module github.com/elwin/path
 
 go 1.13
 
